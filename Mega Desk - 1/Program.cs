@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Mega_Desk___1
+namespace MegaDesk_3_Jason_Chantry
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Mega_Desk___1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new MainMenu());
         }
     }
 }

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Mega_Desk___1.Properties
+namespace MegaDesk_3_Jason_Chantry.Properties
 {
 
 
